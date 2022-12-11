@@ -3,7 +3,7 @@ Project Forecasting for Exams
 
 ## Output Plot
 <p style="float: left">
-    <img src="/Documentation/pic1.png" width="30%" alt="Splashscreen" />
+    <img src="/Documentation/pic1.png" width="30%" " />
     <img src="/demoImages/log in.png" width="30%" alt="Login" />
     <img src="/demoImages/Home.png" width="30%" alt="Homescreen" />
 </p>
