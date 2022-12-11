@@ -3,13 +3,13 @@ Project Forecasting for Exams
 
 ## Output Plot
 <p style="float: left">
-    <img src="/Documentation/pic1.png" width="30%" " />
-    <img src="/demoImages/log in.png" width="30%" alt="Login" />
-    <img src="/demoImages/Home.png" width="30%" alt="Homescreen" />
+    <img src="/Documentation/pic1.png" width="30%"  />
+    <img src="/demoImages/pic2.png" width="30%"  />
+    <img src="/demoImages/pic3.png" width="30%" />
 </p>
 <br>
 <p style="float: left">
-    <img src="/demoImages/Screen Persediaan Barang.png" width="30%" alt="Screen Persediaan Barang" />
-    <img src="/demoImages/Input Barang.png" width="30%" alt="Input Barang" />
-    <img src="/demoImages/View Data Barang.png" width="30%" alt="View Data" />
+    <img src="/demoImages/pic4.png" width="30%" />
+    <img src="/demoImages/pic5.png" width="30%" />
+    <img src="/demoImages/pic6.png" width="30%"  />
 </p>
